@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'books',
     'reviews',
     'django_filters',
+    'drf_yasg',
 ]
 
 MIDDLEWARE = [
